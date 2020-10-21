@@ -10,7 +10,7 @@ Show Me the Code Python version.
 
   * Fork this repo.
   * Create a folder named with your github name.
-  * Create a folder named the problem num.
+  * Create a folder named the problem num. 
   * Add your solution in the folder.
 
 For example, if you wanna add a solution for problem 0001, you should do like this:
